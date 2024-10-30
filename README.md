@@ -48,3 +48,9 @@ Outside of tech, 📖 I enjoy reading and creating work in my other field, Archi
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
 </span>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=CardinalSG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/CardinalSG)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=CardinalSG&theme=material-palenight)](https://github.com/CardinalSG)
+</div>
