@@ -7,7 +7,7 @@
 I am an undergraduate Software Engineering student. Like most, I’ve learned the basics of C, C++, C#, and Java through my studies. However, I have a strong personal focus on JavaScript, React, HTML, and CSS. Currently, I am studying TypeScript and Git to expand my skills even further.
 
 🌱 I’m always open to learning something new—it's why I’m studying software engineering as a second degree.
-👯 I’m looking forward to collaborating on any projects that would benefit from my skills. ✔ Feel free to ask me anything! I’m happy to help if I can.
+I’m looking forward to collaborating on any projects that would benefit from my skills. ✔ Feel free to ask me anything! I’m happy to help if I can.
 
 Outside of tech, 📖 I enjoy reading and creating work in my other field, Architecture, especially 3D projects. 🎨 I also paint and find creative expression through art.
 
